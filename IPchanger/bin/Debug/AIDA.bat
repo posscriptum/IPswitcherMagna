@@ -1,0 +1,1 @@
+netsh int ip set address "Local Area Connection 2" static 10.18.20.151 255.255.255.224 10.18.20.129
